@@ -14,6 +14,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="Go File" />
       </list>
@@ -29,11 +30,18 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/excel" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\GOWork\src\github.com\18301662572\gin_test_project\excel" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\GOWork\src\github.com\18301662572\gin_test_project\word\unioffice" />
+      <recent name="G:\GOWork\src\github.com\18301662572\gin_test_project\excel" />
+      <recent name="G:\GOWork\src\github.com\18301662572\gin_test_project\download\bz" />
+      <recent name="G:\GOWork\src\github.com\18301662572\gin_test_project\upload\gin\script" />
       <recent name="G:\GOWork\src\github.com\18301662572\gin_test_project" />
     </key>
   </component>
@@ -49,13 +57,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/18301662572/gin_test_project/other_template">
-    <configuration name="go build github.com/18301662572/gin_test_project/middleware_gin" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build github.com/18301662572/gin_test_project/download" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gin_test_project" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/middleware_gin/main.go" />
-      <package value="github.com/18301662572/gin_test_project/middleware_gin" />
+      <filePath value="$PROJECT_DIR$/download/main.go" />
+      <package value="github.com/18301662572/gin_test_project/download" />
+      <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <configuration name="go build github.com/18301662572/gin_test_project/middleware_whitelist" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -85,22 +94,22 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gin_test_project" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/middleware_gin/main.go" />
+      <filePath value="$PROJECT_DIR$/excel/main.go" />
       <package value="github.com/18301662572/gin_test_project" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build github.com/18301662572/gin_test_project/download" />
         <item itemvalue="Go Build.go build github.com/18301662572/gin_test_project/other_template" />
         <item itemvalue="Go Build.go build github.com/18301662572/gin_test_project/other_shutdown" />
         <item itemvalue="Go Build.go build github.com/18301662572/gin_test_project/middleware_whitelist" />
-        <item itemvalue="Go Build.go build main.go (1)" />
-        <item itemvalue="Go Build.go build github.com/18301662572/gin_test_project/middleware_gin" />
       </list>
     </recent_temporary>
   </component>
