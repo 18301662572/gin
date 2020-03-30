@@ -11,6 +11,7 @@ import (
 
 //excel 导入导出
 //golang读写excel文件 github.com/360EntSecGroup-Skylar/excelize
+//处理excel文件也可以使用：https://godoc.org/github.com/tealeg/xlsx
 
 func main() {
 	r := gin.Default()
